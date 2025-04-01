@@ -1,5 +1,5 @@
 # Projet-TPOO
-Membres du Groupe : Tchimou David, Oura William, N'doua Bruno, Ouattara Djamila
+Membres du Groupe : Tchimou David, Oura William, N'doua Bruno, Ouattara Djamila, Kouamé Ano, Beh Enock
 
 
 Ce projet est divisé en deux parties :
