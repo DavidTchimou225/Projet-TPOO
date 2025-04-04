@@ -1,3 +1,4 @@
+#encapsulation
 class ClientUtilisateur:
     def __init__(self, nom, adresse, telephone, cnic, login, mot_de_passe):
         self.nom = nom
@@ -11,6 +12,7 @@ class ClientUtilisateur:
     def ajouter_compte(self, compte):
         self.comptes.append(compte)
 
+#Agrégation
 class ClientEntreprise:
     def __init__(self, nom_entreprise, adresse, numero_fiscal, login, mot_de_passe):
         self.nom_entreprise = nom_entreprise
