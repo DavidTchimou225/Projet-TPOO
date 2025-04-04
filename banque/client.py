@@ -1,4 +1,4 @@
-#encapsulation
+
 class ClientUtilisateur:
     def __init__(self, nom, adresse, telephone, cnic, login, mot_de_passe):
         self.nom = nom
